@@ -25,5 +25,5 @@ always_ff @(posedge clk, posedge rst)
     end
 
 
-endmodule
+endmodule-
 
